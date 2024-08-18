@@ -1,4 +1,3 @@
-# exerc-cio-while-e-function
 /*console.log ("atividade 01")
 function tabuada_5 (contador){
 contador =1
