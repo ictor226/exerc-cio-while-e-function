@@ -10,6 +10,7 @@ contador++
 }
 tabuada_5()
 */
+
 /*
 console.log ("atividade 02")
 function soma_ate_100(contador, soma){
@@ -23,6 +24,7 @@ contador++
 return soma
 }
 */
+
 /*
 function Fibonacci(n) {
 var a = 0, b = 1;
